@@ -1,1 +1,1 @@
-eksisozluk.com#?#.li:-abp-contains(kim amk| bsg| feridun abi| svihs)
+eksisozluk.com#?#li:-abp-contains(kim amk| bsg| feridun abi| svihs)
