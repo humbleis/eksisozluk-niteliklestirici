@@ -1,4 +1,4 @@
-# Ekşi Nitelikleyici
+# Ekşi//
 
 Ekşi Sözlük'te mevcut başlık ve entry'lerdeki troll, seksist, abazan, ırkçı vesair çöp entrylere karşı geliştirilmiş filtre dizelgesi. Ekşi Nitelikleyici.
 
