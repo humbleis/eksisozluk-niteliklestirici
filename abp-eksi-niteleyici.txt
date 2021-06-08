@@ -1,3 +1,4 @@
+[Adblock Plus 3.1]
 ! Title: Eksi-Nitelikleyici
 eksisozluk.com##.partial.topic-list> li:-abp-contains(ciddi ciddi )
 eksisozluk.com##.partial.topic-list> li:-abp-contains( bilimum)
