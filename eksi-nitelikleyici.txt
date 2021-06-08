@@ -1,6 +1,7 @@
-! Title: Ekşi Nitelikleyici
-! Expires: 2 hours
+! Title: Ekşi//
+! Expires: 2 hours (update frequency)
 ! Version: 0.3.2
+
 ! eksisozluk.com###entry-item-list > li:not(:min-text-length(210))
 eksisozluk.com##.partial.topic-list> li:has-text(/ciddi ciddi | bilimum| abaza |swj|çıkarınca kalan sayı|ychp|ekşiciler|m.kemal| isim önerileri|şaka maka |cringe|esed|düşün ki o bunu|fuckbuddy|(türk|kürt|rus) (kızı|kadını|erkeği)|cehape| efsane nesil| d[ae] dediği gibi|n (asıl|gerçek) amacı|en yakındaki kitabın|(erkek|kadın|kız) iticiliği|( tl| euro| avro| sterlin| pound|k) vs |n dünyaya kattıkları|erkek yazarlardan kadın yazarlara sorular| kelime ile anlatmak| boyunda |(dığı|diği) gerçeği|hangi ünlüye benziyorsun| diyen (erkek|kadın|kız)|(erkekler|yazarlar|arkadaş|insan) veritabanı|den(diğinde|ilince|ince) akla gelen | laikçi| inanılmaz mantık hatası|abartılmış bir balon|(geceye|güne) (.*?) bırak|olsa kim olurdu|köpektapar|saf muhalif| kemalistlerin|[ıi]n ingilizcesi|ilk buluşmaya |söylenebilecek en |(seler|salar) (.*?)r (mısın|misin|musun)|lerinden meslek tahmini yapmak|yazarların nerede olup ne yaptığı|yazar olsa (alacağı|kullanacağı) nick|en sevişken meslek grubu|(ı|i|u|ü) söylemeden anlat|n neden böyle olması|sevgiliyi seks yapamayacak kadar sevmek| kendine not|kıllarımızı almak zorunda değiliz|(.*?) \+ (.*?) \+ (.*?) \+ (.*?)|imamoğlucu|mansurcu| kg (erkek|kadın|kız) | sabahı erken kalkmak için |l[ıiuü] hatunlar|(((t|d)[ae])| yaparken|rken) (söylene(n|cek|bilecek) (cümle|söz|bir söz))|[0-9]{4} yılında hala| (tl|lira)'y[ae] satılan | m[ıiuü] düşse kurtarırsın | ile değiştir | ile bir gece vs | gibi entry girmek|ne olmak istiyordunuz ne oldunuz| erkek ılıklığı| daha (çekici|güzel|yakışıklı) olması|(erkek|fenerbahçe(li)|galatasaray(lı)|beşiktaş(lı)) ağlaklığı/i)
 
