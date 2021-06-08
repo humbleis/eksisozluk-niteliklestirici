@@ -1,6 +1,5 @@
 [Adblock Plus 3.11]
 ! Title: Ekşi//
-
 ! Expires: 2 hours (update frequency)
 
 eksisozluk.com#?#.topic-list.partial> li:-abp-contains(/ciddi ciddi /i)
