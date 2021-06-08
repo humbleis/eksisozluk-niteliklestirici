@@ -5,5 +5,5 @@ Ekşi Sözlük'te mevcut başlık ve entry'lerdeki troll, seksist, abazan, ırk�
 
 # Kurulum
 
-Filtre kurulumu için <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fgithub.com%2Fhumbleis%2Feksi%2Fraw%2Fmain%2Feksi-nitelikleyici.txt&amp;title=Ek%C5%9Fi%20Nitelikleyici">tıklayın</a>
+Filtre kurulumu için <a href="https://subscribe.adblockplus.org?location=https%3A%2F%2Fgithub.com%2Fhumbleis%2Feksi%2Fraw%2Fmain%2Feksi-slash.txt&amp;title=Ek%C5%9Fi%2F%2F">tıklayın</a>
 
